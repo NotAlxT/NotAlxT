@@ -1,1 +1,1 @@
-![river-anime](https://user-images.githubusercontent.com/112426567/220401684-aa7ff81d-0d03-4008-a5db-f29b59e36ab0.gif)
+![Mostly gif dump](https://user-images.githubusercontent.com/112426567/220402236-d6d1dd3e-a3a5-49d6-8b76-88d58c55ac4d.gif)
