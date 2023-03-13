@@ -3,4 +3,4 @@
 
 Full-Stack Developer
 
-| HTML | CSS | JavaScript | React | SQL | Python |
+| HTML | CSS | JavaScript | React | SQL | Python | Git | Flux
