@@ -3,7 +3,7 @@
 
                                                          Full-Stack Developer
 
-                                     | HTML | CSS | JavaScript | React | SQL | Python | Git | Flux
+                                     | HTML | CSS | JavaScript | React | SQL | Python | Git | Flask | Node.js
 
 
                                                          Hi There, I'm Alex
