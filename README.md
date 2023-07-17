@@ -3,12 +3,12 @@
 
                                                          Full-Stack Developer
 
-                                     | HTML | CSS | JavaScript | React | SQL | Python | Git | Flask | Node.js
+                                     | HTML | CSS | Tailwind | JavaScript | React | Next.js | SQL | Python | Git | Flask | Node.js
 
 
                                                          Hi There, I'm Alex
                        As someone who loves tech and learning new skills. I started off as a self-taught developer,
-                      I learned front-end and expnaded my knowdlege of what is needed to be a well developed engineer.
-                       Taking a step foward I wanted to expand my knowledge of back-end work as well so I graduated
-                           from a full stack bootcamp. My goal is simple, To make coding my purpose in life. 
-                                   Creating projects that will make atleast one person's life easier.
+                      I learned front-end and expanded my knowledge of what is needed to be a well-developed engineer.
+                       Taking a step forward, I wanted to expand my understanding of back-end work, so I graduated
+                           from a full-stack boot camp. My goal is simple, To make coding my purpose in life. 
+                                   It is creating projects that will make at least one person's life easier.
