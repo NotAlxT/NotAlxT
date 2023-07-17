@@ -3,7 +3,7 @@
 
                                                          Full-Stack Developer
 
-                                     | HTML | CSS | Tailwind | JavaScript | React | Next.js | SQL | Python | Git | Flask | Node.js
+                      | HTML | CSS | Tailwind | JavaScript | React | Next.js | SQL | Python | Git | Flask | Node.js |
 
 
                                                          Hi There, I'm Alex
